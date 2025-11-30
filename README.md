@@ -3,7 +3,7 @@
 I'm a student learning tech skills and building my first GitHub portfolio.
 
 ## What I do
-- Basic editing with Photoshop and CapCut
+- Basic editing with Photoshop and CapCut 
 - Beginner in tech and learning step-by-step
 - Exploring cybersecurity and coding
 
